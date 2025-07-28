@@ -17,13 +17,13 @@ This is dataset :- [View Dataset](./Iris.csv)
 I worked on visualizing and analyzing unemployment data of India.
 I used Python libraries like Pandas, Seaborn, and Matplotlib to understand patterns and trends in unemployment rates across states and time.  
 This is file :- [View Code](./OisisTask2.py)
-This is dataset :- [View Dataset](./UnempolyementinIndia.csv).
+This is dataset :- [View Dataset](./Task-2-Unemployment-Analysis/Unemployment%20in%20India.csv)
 
 **Task 3: Sales Prediction Using Linear Regression**  
 I implemented a simple linear regression model to predict sales based on the advertising budget.
 I explored the dataset, built the model, visualized results, and evaluated its accuracy.  
 This is file :- [View Code](./OisisTask1.py)
-This is dataset :- [View Dataset](./cardata.csv)
+This is dataset :- [View Dataset](./car%20data.csv)
 
 
 **Tools and Technologies Used**
