@@ -11,18 +11,20 @@ This repository contains all the tasks I completed during my virtual internship 
 I built a machine learning model to classify Iris flower species using petal and sepal measurements.
 I used logistic regression and evaluated the model’s performance using accuracy, confusion matrix, and classification report.  
 This is file :- [View Code](./OisisTask1.py)
-
-This is dataset :- 
+This is dataset :- [View Dataset](./Iris.csv)
 
 **Task 2: Unemployment Analysis** 
 I worked on visualizing and analyzing unemployment data of India.
 I used Python libraries like Pandas, Seaborn, and Matplotlib to understand patterns and trends in unemployment rates across states and time.  
-[Task 2 Folder](./Task-2-Unemployment-Analysis)
+This is file :- [View Code](./OisisTask2.py)
+This is dataset :- [View Dataset](./UnempolyementinIndia.csv).
 
 **Task 3: Sales Prediction Using Linear Regression**  
 I implemented a simple linear regression model to predict sales based on the advertising budget.
 I explored the dataset, built the model, visualized results, and evaluated its accuracy.  
-[Task 3 Folder](./Task-3-Sales-Prediction)
+This is file :- [View Code](./OisisTask1.py)
+This is dataset :- [View Dataset](./cardata.csv)
+
 
 **Tools and Technologies Used**
 
