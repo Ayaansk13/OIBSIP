@@ -34,7 +34,7 @@ NumPy
 Matplotlib  
 Seaborn  
 Scikit-learn  
-Jupyter Notebook / VS Code
+VS Code
 
 **My Experience**
 
